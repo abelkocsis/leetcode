@@ -1,7 +1,6 @@
 mod challenge_2914;
-
-use challenge_2914::run;
+mod challenge_3163;
 
 fn main() {
-    challenge_2914::run();
+    challenge_3163::run();
 }
