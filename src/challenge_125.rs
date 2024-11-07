@@ -1,5 +1,3 @@
-use std::ops::Sub;
-
 pub fn run() {
     println!("{}", Solution::is_palindrome(" ".to_string()));
 }
