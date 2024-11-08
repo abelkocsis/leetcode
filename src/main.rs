@@ -11,8 +11,9 @@ mod challenge_3163;
 mod challenge_36;
 mod challenge_383;
 mod challenge_392;
+mod challenge_49;
 mod challenge_80;
 
 fn main() {
-    challenge_383::run();
+    challenge_49::run();
 }
