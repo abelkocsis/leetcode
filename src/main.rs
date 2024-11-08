@@ -9,9 +9,10 @@ mod challenge_2914;
 mod challenge_3011;
 mod challenge_3163;
 mod challenge_36;
+mod challenge_383;
 mod challenge_392;
 mod challenge_80;
 
 fn main() {
-    challenge_36::run();
+    challenge_383::run();
 }
